@@ -1,4 +1,3 @@
-from unittest import result
 import wikipedia
 import transformers
 import streamlit as st
